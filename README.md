@@ -1,6 +1,4 @@
 # lab9
-
-<!DOCTYPE html>
 <html lang="en">
 
 <head>

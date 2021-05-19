@@ -18,17 +18,17 @@
             <div class="navbar-big-screen">
                 <ul class="list-item-container">
                     <li class="list-item">
-                        <a href="#">
+                        <a href="Нүүр">
                             <p>Нүүр</p>
                         </a>
                     </li>
                     <li class="list-item">
-                        <a href="#about">
+                        <a href="#Тухай">
                             <p>Тухай</p>
                         </a>
                     </li>
                     <li class="list-item">
-                        <a href="#address">
+                        <a href="#Хаяг">
                             <p>Хаяг</p>
                         </a>
                     </li>
@@ -50,21 +50,21 @@
 
                 <div class="mobile-content">
                     <div class="mob-item-container">
-                        <a href="#">
+                        <a href="Нүүр">
                             <div class="mob-item">
 
                                 <p class="mob-text">Нүүр</p>
 
                             </div>
                         </a>
-                        <a href="#about"></a>
+                        <a href="#Тухай"></a>
                         <div class="mob-item">
 
                             <p class="mob-text">Тухай</p>
 
                         </div>
                         </a>
-                        <a href="#address">
+                        <a href="#Хаяг">
                             <div class="mob-item">
 
                                 <p class="mob-text">Хаяг</p>
@@ -89,7 +89,7 @@
                 </div>
             </div>
         </div>
-        <div id="about" class="content2 margin-top margin-bot">
+        <div id="Тухай" class="content2 margin-top margin-bot">
             <div class="content-container">
                 <article>
                     <h2 class="header"><b> Olimpus </b> гэж юу вэ?</h2>
@@ -146,7 +146,7 @@
             </div>
         </div>
     </main>
-    <footer id="address">
+    <footer id="Хаяг">
         <div class="content-container">
             <h4>Уг website нь дурьдаж байгаа байгууллагатай ямар ч хамаагүй хүн хийсэн болно.</h4>
             <div class="grid-container">

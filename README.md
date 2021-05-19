@@ -3,10 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="description" content="A landing page for seed book coffee
-            shop.">
-    <meta name="keywords" content="Coffee, Coffee shop, Book, cafe, Book
-            cafe, Mongolia, Mongolian coffee shop">
+    <meta name="description" content="A landing page for Olipmus sports item.">
+    <meta name="keywords" content="Olimpus sport baraa">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./style.css" type="text/css" />
     <title>Coffee Shop, The Seed Book Cafe, Book, Cafe</title>
@@ -54,7 +52,7 @@
             <div class="mobile-navbar">
                 <a onclick="toggleNavbar()">
                     <div class="menu-bar-container">
-                        <img class="chevron-icon" src="assets/down-chevron.png" width="40px">
+                        <img class="chevron-icon" src="https://user-images.githubusercontent.com/78839144/118770678-7542f800-b836-11eb-8658-2060bd3528ec.png" width="40px">
                     </div>
                 </a>
 
@@ -93,30 +91,27 @@
         <div class="content1">
             <div class="content-container">
                 <div class="title-container">
-                    <h1 class="title">The Seed <br> <span class="title-mon">Book
-                                Cafe</span>
+                    <h1 class="title">The Seed <br> <span class="title-mon">Olimpus</span>
                     </h1>
-                    <p class="title-footer">READ . LEARN . GROW</p>
+                    <p class="title-footer">SPORT . PLAY .</p>
                 </div>
             </div>
         </div>
         <div id="about" class="content2 margin-top margin-bot">
             <div class="content-container">
                 <article>
-                    <h2 class="header"><b>The Seed Book Cafe</b> гэж юу вэ?</h2>
+                    <h2 class="header"><b> Olimpus </b> гэж юу вэ?</h2>
                     <div class="grid-container">
                         <div class="text-container">
                             <h3>Тухай</h3>
-                            <p class="content-text"><b>The Seed Book Cafe</b> бол
-                                <b>Coffee Shop</b> маягаар үйл ажиллагаагаа явуулдаг байгууллага юм. Уг Кофе шоп нь нээгдээд удаагүй бөгөөд 2020 оны 6 дугаар сараас үйл ажиллагаагаа эхлүүлсэн билээ.</p>
+                            <p class="content-text"><b>Olimpus</b> бол
+                                <b>Спортын хэрэгслийн худалдаа </b> маягаар үйл ажиллагаагаа явуулдаг байгууллага юм. Байгууллага нь үйл ажиллагаагаа эхлүүлээд удаж байгаа.</p>
                             <h3>Зорилго</h3>
-                            <p class="content-text"><b>The Seed Cafe</b>-гийн ялгарал бол залуус юм. Энэхүү <b>Coffee shop</b>-ийн гол зорилго бол залуучуудыг хөгжих уур амьсгал бүтээх юм. Тиймхүү бүтэц, сандал ширээ, өрөөнүүдээ аль болох залуусын хөгжлийг дэмжих гэх мэтээр
-                                байршуулсан ба ихэвчлэн та энд <b>Coffee</b> авахгүйгээр суувал бусад Кофе шоп шигд хөөх, ялгаварлах зүйл олж харахгүй л болов уу.</p>
-                            <h3>Нэрний үндэс</h3>
-                            <p class="content-text"><b>The Seed</b> буюу бүх юмны үндэс Seed байдаг гэх санаа.</p>
+                            <p class="content-text"><b>Olimpus спорт барааны дэлгүүрын</b>Зорилго бол Монголдоо спортыг улам сайн хөгжүүүлэх юм . Энэхүү <b>Olimpus спорт барааны дэлгүүр</b> нь аль болох залуусын хүссэн хэрэгсэл материалыг худалддаг.</p>
+                            <h3>Нэрний тухай</h3>
+                            <p class="content-text"><b>Olimpus</b> буюу олимп гэх үгнээс сэдэвлэсэн.</p>
                         </div>
-                        <img class="img-border" alt="Atmosphere of the seed
-                                book cafe" src="assets/seedportrait.jpg">
+                        <img class="img-border" alt="Olimpus" src="https://user-images.githubusercontent.com/78839144/118770916-bb985700-b836-11eb-8e58-4fefc8eac8ca.jpg">
                     </div>
                 </article>
             </div>
@@ -124,18 +119,16 @@
         <div class="content3 padding-bot">
             <div class="content-container">
                 <article>
-                    <h2 class="header"><b>The Seed Book Cafe</b>-ийн тухай, илүү их
+                    <h2 class="header"><b>Olimpus спорт барааны дэлгүүр</b>-ын тухай, илүү их
                     </h2>
                     <div class="grid-container">
-                        <img class="img-border" alt="photo inside the seed
-                                book cafe" src="assets/inside1.png">
+                        <img class="img-border" alt="olimpus" src="https://user-images.githubusercontent.com/78839144/118770678-7542f800-b836-11eb-8658-2060bd3528ec.png">
                         <div class="text-container">
                             <h3>Одоо</h3>
-                            <p class="content-text"><b>The Seed Book Cafe</b>
-                                <b>Coffee shop нь</b> 2-дох салбар буюу <b>Takeout</b> салбараа нээж байгаа юм. Уг салбар нь суух зориулалтгүй зөвхөн Кофе гаа авж явж үйлчлүүлэх салбар юм.</p>
-                            <h3>Баг</h3>
-                            <p class="content-text">"Одоогоор манай багт 10 хүн ажиллаж байна. Бид багаа бүрдүүлэхэд ялангуяа бариста нараа шалгаруулж авахдаа чин сэтгэлээсээ кофенд буюу хийж буй ажилдаа дурлах хүнийг хайдаг. Ямар нэг сургалтанд суугаад, сертификат аваад л бариста
-                                болно гэж байхгүй шүү дээ. Хийж буй ажилдаа дуртай, түүнийгээ чин сэтгэлээсээ хийх нь л чухал."
+                            <p class="content-text"><b>Olimpus спорт барааны дэлгүүр</b>
+                                <b> нь</b> короновирусын улмаас Online-аар худалдаа явагдаж байгаа.</p>
+                            <h3>Байршил</h3>
+                            <p class="content-text">Tengis кинотеатрын баруун тал Нарны титмын 2-р давхар.  
                             </p>
                         </div>
                     </div>
@@ -147,28 +140,19 @@
                 <div id="lightgallery" class="image-grid">
                     <div class="grid-item">
 
-                        <img src="assets/gallery1.jpg" alt="2 people working
-                                inside
-                                The Seed Cafe" />
+                        <img src="https://user-images.githubusercontent.com/78839144/118771116-fef2c580-b836-11eb-8c7a-efdc7be7e753.jpg" alt="Zurag" />
 
 
                     </div>
                     <div class="grid-item">
-                        <img src="assets/gallery2.jpg" alt="people studying
-                                in
-                                The
-                                Seed Cafe" />
+                        <img src="https://user-images.githubusercontent.com/78839144/118771166-129e2c00-b837-11eb-93c7-4b689443e67e.jpg" alt="Zurag" />
                     </div>
                     <div class="grid-item">
-                        <img src="assets/gallery3.jpg" alt="barista of The
-                                Seed
-                                Cafe" />
+                        <img src="https://user-images.githubusercontent.com/78839144/118771321-4416f780-b837-11eb-87a5-3fee53b06c04.jpg" alt="zurag" />
                     </div>
 
                     <div class="grid-item">
-                        <img src="assets/gallery6.jpg" alt="barista of The
-                                Seed
-                                Cafe" />
+                        <img src="https://user-images.githubusercontent.com/78839144/118771365-5133e680-b837-11eb-9f91-cbe2af3359dc.jpg" alt="zurag" />
                     </div>
                     <div class="grid-item">
                         <img src="assets/gallery7.jpg" alt="the corner of

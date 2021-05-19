@@ -192,28 +192,19 @@
     <footer id="address">
         <div class="content-container">
             <h4>Уг website нь дурьдаж байгаа байгууллагатай ямар ч хамаагүй хүн хийсэн болно.</h4>
-            <h6>Доторх мэдээлэл интернэтэд хангалттай байгаагүй тул, мени, үйлчилгээ гэх мэт зүйл оруулж чадаагүй болно.</h6>
             <div class="grid-container">
                 <div class="grid-item">
                     <h3>Хаяг</h3>
-                    <p>Салбар 1 - Зүүн 4 замын урд талын автобусны буудлын Голомт банкны хоёрдугаар давхарт "The Seed Book Cafe"
+                    <p>Төв салбар  - Tengis кинотеатрын баруун тал Нарны титмын 2-р давхар.
                     </p>
                 </div>
                 <div class="grid-item">
                     <h3>Social Media</h3>
                     <ul class="icons">
                         <li class="list-icon">
-                            <a target="_blank" title="facebook" href="https://www.facebook.com/seedbookcafe"><i
+                            <a target="_blank" title="facebook" href="https://www.facebook.com/OlimpusSports/"><i
                                         class="fab fa-facebook"></i></a>
-                        </li>
-                        <li class="list-icon">
-                            <a target="_blank" title="instagram" href="https://www.instagram.com/seedbookcafe/"><i
-                                        class="fab fa-instagram"></i></a>
-                        </li>
-                        <li class="list-icon">
-                            <a target="_blank" title="unread" href="https://unread.today/c/spotlight-theseed-bookcafe"><i
-                                        class="fas fa-book"></i></a>
-                        </li>
+                        </li>                                       
                     </ul>
 
                 </div>

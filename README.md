@@ -7,7 +7,7 @@
     <meta name="keywords" content="Olimpus sport baraa">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./style.css" type="text/css" />
-    <title>Coffee Shop, The Seed Book Cafe, Book, Cafe</title>
+    <title>Olimpus</title>
     <script src="https://kit.fontawesome.com/2f23444d58.js" crossorigin="anonymous"></script>
 
 </head>

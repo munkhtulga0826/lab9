@@ -76,17 +76,6 @@
 
 
     </div>
-
-    <main>
-        <div class="content1">
-            <div class="content-container">
-                <div class="title-container">
-                    <h1 class="title">The Seed <br> <span class="title-mon">Olimpus</span>
-                    </h1>
-                    <p class="title-footer">SPORT . PLAY .</p>
-                </div>
-            </div>
-        </div>
         <div id="Тухай" class="content2 margin-top margin-bot">
             <div class="content-container">
                 <article>

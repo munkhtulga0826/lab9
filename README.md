@@ -35,16 +35,8 @@
                 </ul>
                 <ul class="list-icon-container">
                     <li class="list-icon">
-                        <a target="_blank" title="facebook" href="https://www.facebook.com/seedbookcafe"><i
+                        <a target="_blank" title="facebook" href="https://www.facebook.com/OlimpusSports/"><i
                                     class="fab fa-facebook"></i></a>
-                    </li>
-                    <li class="list-icon">
-                        <a target="_blank" title="instagram" href="https://www.instagram.com/seedbookcafe/"><i
-                                    class="fab fa-instagram"></i></a>
-                    </li>
-                    <li class="list-icon">
-                        <a target="_blank" title="unread" href="https://unread.today/c/spotlight-theseed-bookcafe"><i
-                                    class="fas fa-book"></i></a>
                     </li>
                 </ul>
             </div>
@@ -145,47 +137,12 @@
 
                     </div>
                     <div class="grid-item">
-                        <img src="https://user-images.githubusercontent.com/78839144/118771166-129e2c00-b837-11eb-93c7-4b689443e67e.jpg" alt="Zurag" />
+                        <img src="https://user-images.githubusercontent.com/78839144/118771365-5133e680-b837-11eb-9f91-cbe2af3359dc.jpg" alt="Zurag" />
                     </div>
                     <div class="grid-item">
                         <img src="https://user-images.githubusercontent.com/78839144/118771321-4416f780-b837-11eb-87a5-3fee53b06c04.jpg" alt="zurag" />
                     </div>
-
-                    <div class="grid-item">
-                        <img src="https://user-images.githubusercontent.com/78839144/118771365-5133e680-b837-11eb-9f91-cbe2af3359dc.jpg" alt="zurag" />
-                    </div>
-                    <div class="grid-item">
-                        <img src="assets/gallery7.jpg" alt="the corner of
-                                The
-                                Seed
-                                Caafe" />
-                    </div>
-                    <div class="grid-item">
-                        <img src="assets/gallery8.jpg" alt="3 people
-                                studying
-                                inside
-                                The Seed Cafe" />
-                    </div>
-                    <div class="grid-item">
-                        <img src="assets/gallery9.jpg" alt="the door of The
-                                Seed
-                                Cafe" />
-                    </div>
-                    <div class="grid-item">
-                        <img src="assets/gallery10.jpg" alt="the door of The
-                                Seed
-                                Cafe" />
-                    </div>
-                    <div class="grid-item">
-                        <img src="assets/gallery11.jpg" alt="people studying
-                                in
-                                The
-                                Seed Cafe" />
-                    </div>
                 </div>
-
-
-
             </div>
         </div>
     </main>
